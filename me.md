@@ -38,9 +38,9 @@ I also go by *Shub* (For anyone struggling to pronounce my name)
 
 * I am an intern at [A.P. Møller – Mærsk](https://www.maersk.com/about) (Danish: [ˈɛˀ ˈpʰe̝ˀ mølɐˈmɛɐ̯sk]), also known simply as Maersk (English: /mɛərsk/ MAIRSK)	:ship: working in the **fbm DevOps and QE team** under **Sudhansu Mohanty**
 
-```
 
-   
+# Tools DevOps Engineers often Use :hammer_and_wrench: 
+```
 FROM node:18-alpine
 WORKDIR /app
 COPY . .
@@ -49,9 +49,64 @@ CMD ["node", "src/index.js"]
 EXPOSE 3000
 cd /path/to/getting-started-app
 docker build -t getting-started .
-docker run -dp 127.0.0.1:3000:3000 getting-started
 
 ```
+_Code snippet to build a Dockerfile_ 
+
+
+```
+terraform {
+  required_providers {
+    aws = {
+      source  = "hashicorp/aws"
+      version = ">= 5.8.0"
+    }
+  }
+  required_version = ">= 1.1.5"
+}
+
+variable "region" {
+  description = "The AWS region your resources will be deployed"
+}
+
+provider "aws" {
+  region = var.region
+}
+
+data "aws_ami" "ubuntu" {
+  most_recent = true
+
+  filter {
+    name   = "name"
+    values = ["ubuntu/images/hvm-ssd/ubuntu-focal-20.04-amd64-server-*"]
+  }
+
+  filter {
+    name   = "virtualization-type"
+    values = ["hvm"]
+  }
+
+  owners = ["099720109477"] # Canonical
+}
+
+resource "aws_instance" "example" {
+  ami                    = data.aws_ami.ubuntu.id
+  instance_type          = "t2.micro"
+  vpc_security_group_ids = [aws_security_group.sg_8080.id]
+  user_data              = <<-EOF
+              #!/bin/bash
+              apt-get update
+              apt-get install -y apache2
+              sed -i -e 's/80/8080/' /etc/apache2/ports.conf
+              echo "Hello World" > /var/www/html/index.html
+              systemctl restart apache2
+              EOF
+  tags = {
+    Name = "terraform-learn-state-ec2"
+  }
+}
+```
+*Snippet from a terraform statefile*
 
 # What Maersk does: :world_map: 
 
@@ -109,7 +164,56 @@ and This Image &darr; should be enough to prove my point
 </details>
 
 
+terraform {
+  required_providers {
+    aws = {
+      source  = "hashicorp/aws"
+      version = ">= 5.8.0"
+    }
+  }
+  required_version = ">= 1.1.5"
+}
 
+variable "region" {
+  description = "The AWS region your resources will be deployed"
+}
+
+provider "aws" {
+  region = var.region
+}
+
+data "aws_ami" "ubuntu" {
+  most_recent = true
+
+  filter {
+    name   = "name"
+    values = ["ubuntu/images/hvm-ssd/ubuntu-focal-20.04-amd64-server-*"]
+  }
+
+  filter {
+    name   = "virtualization-type"
+    values = ["hvm"]
+  }
+
+  owners = ["099720109477"] # Canonical
+}
+
+resource "aws_instance" "example" {
+  ami                    = data.aws_ami.ubuntu.id
+  instance_type          = "t2.micro"
+  vpc_security_group_ids = [aws_security_group.sg_8080.id]
+  user_data              = <<-EOF
+              #!/bin/bash
+              apt-get update
+              apt-get install -y apache2
+              sed -i -e 's/80/8080/' /etc/apache2/ports.conf
+              echo "Hello World" > /var/www/html/index.html
+              systemctl restart apache2
+              EOF
+  tags = {
+    Name = "terraform-learn-state-ec2"
+  }
+}
 Continental Gt-650 has an overcommitted and very unconfortable riding posture
 
 Roger Moore was the worst james bond 
