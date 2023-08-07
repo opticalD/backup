@@ -39,6 +39,10 @@ Strikethrough uses two tildes. ~~piece of shit~~
 + Or pluses
 
 
+Reference-style: 
+![alt text][myphoto]
+
+[myphoto]: ./images/IMG_20230409_182457~2.jpg "looking good"
 
 
 [I'm an inline-style link](https://www.google.com)
