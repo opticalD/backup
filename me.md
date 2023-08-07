@@ -34,7 +34,7 @@ and this too :arrow_heading_down:
 
 i am [21](https://you.regettingold.com/26/12/2001/) years old
 
-i am an intern at [ **A.P. Moller Maersk** ](https://www.maersk.com/about) working in the fbm DevOps and QE team under sudhansu mohanty
+i am an intern at [ **A.P. Moller Maersk** ](https://www.maersk.com/about) working in the **fbm DevOps and QE team** under sudhansu mohanty                                                                                     ------------------------
 
 i have a chipped tooth
 
