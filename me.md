@@ -77,8 +77,10 @@ I mentally adapt to almost all kinds of situations fairly fast and have strong o
 # Controversial Opinions I Have:
 
 <details>
-<summary>terminator 1984 is a scifi horror movie</summary>
+<summary>1. Terminator(1984) is a scifi horror movie</summary>
 
+
+This Scene Right here &rarr; ![Ill be back](./images/ill-be-back-terminator.gif)
 ![Ill be back](./images/ill-be-back-terminator.gif)
 
 </details>
