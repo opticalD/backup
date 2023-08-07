@@ -45,11 +45,6 @@ Reference-style:
 [myphoto]: ./images/IMG_20230409_182457~2.jpg "looking good"
 
 
-Reference-style: 
-![alt text][myphoto2]
-
-[myphoto2]: ./photos/hghdownload.jpg "looking bad"
-
 [I'm an inline-style link](https://www.google.com)
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
