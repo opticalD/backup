@@ -29,9 +29,12 @@ here's my breakdown of the james bond movie franchise
 3. Goldfinger                       1964 
 4. Thunderball                      1965 
 5. You Only Live Twice              1967  
+6. Diamonds Are Forever             1971 
 
 
 ![alt text](./images/Connery_LANDSCAPE.jpg "Sean Connery")
+
+---------------------------------------------------------------
 
 ## 2. George Lazenby
 --------------------
@@ -41,6 +44,28 @@ here's my breakdown of the james bond movie franchise
 1.  On Her Majesty's Secret Service  1969 
 
 ![alt text](./images/Bond_-_George_Lazenby_-_Profile%20(1).webp "George Lazenby")
+
+-------------------------------------------------------------------------------
+
+
+## 2. Roger Moore
+--------------------
+
+### Movies played :tickets:
+
+1. Live and Let Die                 1973 
+2. The Man with the Golden Gun      1974 
+3. The Spy Who Loved Me             1977 
+4. Moonraker                        1979 
+5. For Your Eyes Only               1981 
+6. Octopussy                        1983 
+7. A View to a Kill                 1985 
+
+1.  On Her Majesty's Secret Service  1969 
+
+![alt text](./images/roger_moore.avif "Roger Moore")
+
+
 
 
 | Title                            | Year |
