@@ -219,3 +219,9 @@ Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
 viverra nec, fringilla in, laoreet vitae, risus.
 *   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
 Suspendisse id sem consectetuer libero luctus adipiscing.
+
+Here is an example of AppleScript:
+
+    tell application "Foo"
+        beep
+    end tell
