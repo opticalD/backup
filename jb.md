@@ -15,9 +15,20 @@ here's my breakdown of the james bond movie franchise
 
 * There are also two additional James Bond films, Casino Royale (1967) and Never Say Never Again as well as a single TV production of Casino Royale. All three of these were adapted directly from Ian Fleming novels and had major deviations from the source material.
 
-#Actors who played james bond 
+# Actors who played james bond 
+===============================
 
-## 1.Sean Connery
+## 1. Sean Connery
+------------------
+
+### Movies played 
+
+
+1. Dr. No                           1962 
+2. From Russia with Love            1963 
+3. Goldfinger                       1964 
+4. Thunderball                      1965 
+5. You Only Live Twice              1967  
 
 
 ![alt text](./images/Connery_LANDSCAPE.jpg "Sean Connery")
