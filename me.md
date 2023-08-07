@@ -56,9 +56,23 @@ _____________________________________________________________
 <details>
 <summary>TITLE</summary>
 
-BODY CONTENT
+# Some Facts on A.P. Moller Maersk 	:ship:
 
-<summary>hgyd</summary>
+A.P. Møller – Mærsk A/S (Danish: [ˈɛˀ ˈpʰe̝ˀ mølɐˈmɛɐ̯sk]), also known simply as Maersk (English: /mɛərsk/ MAIRSK), is a Danish shipping and logistics company founded in 1904 by Peter Mærsk Møller and Arnold Peter Møller.
+
+* Founded	16 April 1904; 119 years ago, Svendborg, Denmark
+* Founders	Arnold Peter Møller
+* Peter Mærsk Møller
+* Headquarters:	Copenhagen, Denmark 
+* Vincent Clerc (CEO)
+* Revenue	US$81.5 billion (2022)
+* Operating income	US$29.7 billion (2022)
+* Net income	US$29.3 billion (2022)
+* Total assets	US$93.7 billion (2022)
+* Total equity	US$65 billion (2022)
+* Number of employees	104,260 (2022)
+* Subsidiaries	900+
+
 </details>
 # Some Facts on A.P. Moller Maersk 	:ship:
 
