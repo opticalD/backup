@@ -10,19 +10,24 @@ I also go by *Shub* (For anyone struggling to pronounce my name)
 
 *   I Come from **Odisha**
 
-## Where we have :arrow_heading_down:
+## Where We Have :arrow_heading_down:
 
-<img src="./images/2000_5e741e821a9ee.webp" width="400" height="200">  
+<img src="./images/2000_5e741e821a9ee.webp" width="400" height="400">  
 
 ##  :arrow_heading_down:
+
 
 <img src="./images/Puri-Odisha-temple-India-background-Jagannatha.webp" width="400" height="200">  
 
+
 ##  :arrow_heading_down:
+
 
 <img src="./images/magnet-valley-view-from.jpg" width="400" height="200"> 
 
+
 ## and this too :arrow_heading_down:
+
 
 <img src="./images/36442626_2115263685394037_4487199930405879808_n.webp" width="400" height="200">  "O1"
 
