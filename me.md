@@ -154,7 +154,7 @@ A.P. Møller – Mærsk A/S (Danish: [ˈɛˀ ˈpʰe̝ˀ mølɐˈmɛɐ̯sk]), als
 # Controversial Opinions I Have:
 
 <details>
-<summary>1. Terminator(1984) is a scifi horror movie</summary>
+<summary><strong>1. Terminator(1984) is a Sci-Fi Horror Movie</strong></summary>
 
 
 This Scene Right here &rarr; ![Ill be back](./images/ill-be-back-terminator.gif)
@@ -169,6 +169,8 @@ and This Image &darr; should be enough to prove my point
 
 <details>
 <summary>2. Continental GT-650 has an overcommitted and very unconfortable riding posture</summary>
+
+
 
 **How can this be Comfortable!!**
 
@@ -194,7 +196,7 @@ This is supposed to be [Roger Moore](https://en.wikipedia.org/wiki/Roger_Moore) 
 </details>
 
 
-
+---
 
 <details>
 <summary>3. You need to have basic understanding of quantum physics for _Enhanced_ Viewing of any **Christopher Nolan** Movie </summary>
