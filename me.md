@@ -10,29 +10,29 @@ I also go by *Shub* (For anyone struggling to pronounce my name)
 
 I Come from Bhubaneswar,Odisha
 
-where we have this
+where we have this :arrow_heading_down:
 
 ![alt text][1]
 
-and this 
+and this :arrow_heading_down:
 
 ![alt text][2]
 
-and this
+and this :arrow_heading_down:
 
 
 ![alt text][3]
 
-this too
+and this too :arrow_heading_down:
 
 ![alt text][4]
 
 [1]: ./images/Puri-Odisha-temple-India-background-Jagannatha.webp "O1"
 [2]: ./images/Abhada.jpg "o2"
 [3]: ./images/Hirakud-Dam-1.png "03"
-[4]: ./images/IMAGE_1625404316.jpg "04"
+[4]: ./images/36442626_2115263685394037_4487199930405879808_n.webp "04"
 
-i am 21 years old from bhubaneswar odisha
+i am [21](https://you.regettingold.com/26/12/2001/) years old
 
 i am an intern at AP MOLLER MAERSK working in the fbm DevOps and QE team under sudhansu mohanty
 
