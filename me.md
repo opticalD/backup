@@ -53,33 +53,6 @@ ____________________________________________________________
 _____________________________________________________________
 
 
-<details>
-<summary>TITLE</summary>
-
-# Some Facts on A.P. Moller Maersk 	:ship:
-
-A.P. Møller – Mærsk A/S (Danish: [ˈɛˀ ˈpʰe̝ˀ mølɐˈmɛɐ̯sk]), also known simply as Maersk (English: /mɛərsk/ MAIRSK), is a Danish shipping and logistics company founded in 1904 by Peter Mærsk Møller and Arnold Peter Møller.
-
-* Founded	16 April 1904; 119 years ago, Svendborg, Denmark
-* Founders	Arnold Peter Møller
-* Peter Mærsk Møller
-* Headquarters:	Copenhagen, Denmark 
-* Vincent Clerc (CEO)
-* Revenue	US$81.5 billion (2022)
-* Operating income	US$29.7 billion (2022)
-* Net income	US$29.3 billion (2022)
-* Total assets	US$93.7 billion (2022)
-* Total equity	US$65 billion (2022)
-* Number of employees	104,260 (2022)
-* Subsidiaries	900+
-
-</details>
-<details>
-<summary>TITLEsdwf</summary>
-
-
-
-</details>
 
 # Some Facts on A.P. Moller Maersk 	:ship:
 
@@ -101,7 +74,16 @@ i have a [chipped tooth](https://www.orovalleydentalarts.com/facts-about-cracked
 
 I mentally adapt to almost all kinds of situations fairly fast and have strong opinions on various topics, and am up for a good debate always.
 
-terminator 1984 is a scifi horror movie
+# Controversial Opinions I Have:
+
+<details>
+<summary>terminator 1984 is a scifi horror movie</summary>
+
+![Ill be back](./images/ill-be-back-terminator.gif)
+
+</details>
+
+
 
 Continental Gt-650 has an overcommitted and very unconfortable riding posture
 
