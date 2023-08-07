@@ -21,7 +21,7 @@ here's my breakdown of the james bond movie franchise
 ## 1. Sean Connery
 ------------------
 
-### Movies played 
+### Movies played :tickets:
 
 
 1. Dr. No                           1962 
@@ -33,6 +33,14 @@ here's my breakdown of the james bond movie franchise
 
 ![alt text](./images/Connery_LANDSCAPE.jpg "Sean Connery")
 
+## 2. George Lazenby
+--------------------
+
+### Movies played :tickets:
+
+1.  On Her Majesty's Secret Service  1969 
+
+![alt text](./images/Bond_-_George_Lazenby_-_Profile%20(1).webp "George Lazenby")
 
 
 | Title                            | Year |
