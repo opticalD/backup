@@ -46,7 +46,7 @@ ____________________________________________________________
 
 # Where Maersk Stands: :electron:
 
-[![Where Maersk Stands](<img src="./images/cross-border-rail-transportation_720x405.webp" width="400" height="200">](https://www.youtube.com/watch?v=4GixY3P9mfs)  
+[![Where Maersk Stands](./images/cross-border-rail-transportation_720x405.webp")](https://www.youtube.com/watch?v=4GixY3P9mfs)  
 <img src="./images/cross-border-rail-transportation_720x405.webp" width="200" height="100">
 
 
