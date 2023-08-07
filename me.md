@@ -16,7 +16,7 @@ where we have this :arrow_heading_down:
 
 and this :arrow_heading_down:
 
-![alt text][2]
+<img src="./images/Puri-Odisha-temple-India-background-Jagannatha.webp" width="400" height="200">  "O1"
 
 and this :arrow_heading_down:
 
@@ -27,7 +27,7 @@ and this too :arrow_heading_down:
 
 ![alt text][4]
 
-[1]: <img src="./images/Puri-Odisha-temple-India-background-Jagannatha.webp" width="400" height="200">  "O1"
+
 [2]: ./images/2000_5e741e821a9ee.webp "o2"
 [3]: ./images/Hirakud-Dam-1.png "03"
 [4]: ./images/36442626_2115263685394037_4487199930405879808_n.webp "04"
