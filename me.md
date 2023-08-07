@@ -1,12 +1,36 @@
 # Introduction
 
+Hello !
+
 * I am shubhranshu Pattanaik 
 
 > How can this be a name? Its just random letters jumbled together.
 
-Hello !
+I also go by *Shub* (For anyone struggling to pronounce my name)
 
-I am shubhranshu Pattanaik aka shub
+I Come from Bhubaneswar,Odisha
+
+where we have this
+
+![alt text][1]
+
+and this 
+
+![alt text][2]
+
+and this
+
+
+![alt text][3]
+
+this too
+
+![alt text][4]
+
+[1]: ./images/Puri-Odisha-temple-India-background-Jagannatha.webp "O1"
+[2]: ./images/Abhada.jpg "o2"
+[3]: ./images/Hirakud-Dam-1.png "03"
+[4]: ./images/IMAGE_1625404316.jpg "04"
 
 i am 21 years old from bhubaneswar odisha
 
