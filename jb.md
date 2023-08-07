@@ -18,7 +18,7 @@ here's my breakdown of the james bond movie franchise
 #Actors who played james bond 
 
 1.Sean Connery
-![alt text](https://images.app.goo.gl/9qtdqCpAY2SNxV16A "Sean Connery")
+![alt text](./images/Connery_LANDSCAPE.jpg "Sean Connery")
 
 | Title                            | Year |
 |----------------------------------|------|
