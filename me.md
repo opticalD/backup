@@ -29,12 +29,12 @@ I also go by *Shub* (For anyone struggling to pronounce my name)
 ## and this too :arrow_heading_down:
 
 
-<img src="./images/36442626_2115263685394037_4487199930405879808_n.webp" width="400" height="200">  "O1"
+<img src="./images/36442626_2115263685394037_4487199930405879808_n.webp" width="400" height="400">  
 
 
 * I am [21](https://you.regettingold.com/26/12/2001/) years old
 
-* I am an intern at [ **A.P. Moller Maersk** ](https://www.maersk.com/about) 	:ship: working in the **fbm DevOps and QE team** under **Sudhansu Mohanty**
+* I am an intern at [A.P. Møller – Mærsk](https://www.maersk.com/about) (Danish: [ˈɛˀ ˈpʰe̝ˀ mølɐˈmɛɐ̯sk]), also known simply as Maersk (English: /mɛərsk/ MAIRSK)	:ship: working in the **fbm DevOps and QE team** under **Sudhansu Mohanty**
 
 # What Maersk does: :world_map: 
 
@@ -46,13 +46,22 @@ ____________________________________________________________
 
 # Where Maersk Stands: :electron:
 
-[![Where Maersk Stands](./images/cross-border-rail-transportation_720x405.webp")](https://www.youtube.com/watch?v=4GixY3P9mfs)  
+[![Where Maersk Stands](./images/cross-border-rail-transportation_720x405.webp)](https://www.youtube.com/watch?v=4GixY3P9mfs)  
 
 
 
 _____________________________________________________________
 
-# A.P. Moller Maersk 	:ship:
+
+<details>
+<summary>TITLE</summary>
+
+BODY CONTENT
+
+</details>
+# Some Facts on A.P. Moller Maersk 	:ship:
+
+A.P. Møller – Mærsk A/S (Danish: [ˈɛˀ ˈpʰe̝ˀ mølɐˈmɛɐ̯sk]), also known simply as Maersk (English: /mɛərsk/ MAIRSK), is a Danish shipping and logistics company founded in 1904 by Peter Mærsk Møller and Arnold Peter Møller.
 
 * Founded	16 April 1904; 119 years ago, Svendborg, Denmark
 * Founders	Arnold Peter Møller
