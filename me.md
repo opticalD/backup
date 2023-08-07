@@ -1,4 +1,4 @@
-# Introduction
+# Introduction  :notebook_with_decorative_cover:
 
 Hello !
 
@@ -38,7 +38,7 @@ I also go by *Shub* (For anyone struggling to pronounce my name)
 
 * I mentally adapt to almost all kinds of situations fairly fast and have strong opinions on various topics, and am up for a good debate always.
 
-* I am an intern at [A.P. Møller – Mærsk](https://www.maersk.com/about) (Danish: [ˈɛˀ ˈpʰe̝ˀ mølɐˈmɛɐ̯sk]), also known simply as Maersk (English: /mɛərsk/ MAIRSK)	:ship: working in the **fbm DevOps and QE team** under **Sudhansu Mohanty**
+* I am an intern at [A.P. Møller – Mærsk](https://www.maersk.com/about) (Danish: [ˈɛˀ ˈpʰe̝ˀ mølɐˈmɛɐ̯sk]), also known simply as Maersk (English: /mɛərsk/ MAIRSK)	:ship: working in the **Fbm DevOps and QE team** under **Sudhansu Mohanty**
 
 
 # Tools DevOps Engineers often Use :hammer_and_wrench: 
@@ -136,18 +136,17 @@ _____________________________________________________________
 
 A.P. Møller – Mærsk A/S (Danish: [ˈɛˀ ˈpʰe̝ˀ mølɐˈmɛɐ̯sk]), also known simply as Maersk (English: /mɛərsk/ MAIRSK), is a Danish shipping and logistics company founded in 1904 by Peter Mærsk Møller and Arnold Peter Møller.
 
-* Founded	16 April 1904; 119 years ago, Svendborg, Denmark
-* Founders	Arnold Peter Møller
-* Peter Mærsk Møller
+* Founded:	16 April 1904; 119 years ago, Svendborg, Denmark
+* Founders:	**Arnold Peter Møller** and **Peter Mærsk Møller**
 * Headquarters:	Copenhagen, Denmark 
 * Vincent Clerc (CEO)
-* Revenue	US$81.5 billion (2022)
-* Operating income	US$29.7 billion (2022)
+* Revenue:	US$81.5 billion (2022)
+* Operating income:	US$29.7 billion (2022)
 * Net income:	US$29.3 billion (2022)
 * Total assets:	US$93.7 billion (2022)
 * Total equity:	US$65 billion (2022)
-* Number of employees	104,260 (2022)
-* Subsidiaries	900+
+* Number of employees:	104,260 (2022)
+* Subsidiaries:	900+
 
 
 
@@ -217,7 +216,7 @@ This is supposed to be [Roger Moore](https://en.wikipedia.org/wiki/Roger_Moore) 
 
 | Where | How |
 |----------|---------|
-|Email  | ]shubhranshu.pattanaik@maersk.com
+|Email  | shubhranshu.pattanaik@maersk.com
 |LinkedIn| [Shubhranshu Linkedin](https://www.linkedin.com/in/shubhranshu-pattanaik-12ty/)
 |Whatsapp| +91-7735406476|
 
