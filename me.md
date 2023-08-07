@@ -112,7 +112,7 @@ resource "aws_instance" "example" {
 ```
 *Snippet from a terraform statefile*
 
-** And a whole lot more!
+## And a whole lot more!
 
 # What Maersk does: :world_map: 
 
@@ -178,7 +178,19 @@ and This Image &darr; should be enough to prove my point
 
 </details>
 
-Continental Gt-650 has an overcommitted and very unconfortable riding posture
+<details>
+<summary>3. Roger Moore was the worst james bond </summary>
+
+**How can this be Comfortable!!**
+
+This is supposed to be [Roger Moore](https://en.wikipedia.org/wiki/Roger_Moore) in The 1985 Bond movie _A View To Kill_ :magic_wand:
+
+
+![rm](./images/rm%20stunt.jpeg)
+
+
+
+</details>
 
 Roger Moore was the worst james bond 
 
