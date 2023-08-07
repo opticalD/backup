@@ -1,5 +1,20 @@
+# Something about me
+Hello everyone!!
+I am Shubhranshu Pattanaik a.k.a Shub 
+i am 21 Years old, I was born in odisha.
+Stayed at the same place almost all my life.
+I Love a good debate, since there isnt much to write about my life or im embarrased to do so,
+here's my breakdown of the james bond movie franchise 
 
 **List of official james bond movies**
+
+# Some facts about the movies
+* There are twenty-five James Bond Films produced by EON Productions and distributed by United Artists and MGM. The first, Dr. No was released in 1962 and the twenty-fifth installment, No Time to Die, was released in 2021; making it one of the longest-running film series of all time.
+
+* Combined, all 25 released Bond films have a budget of  $1.6 Billion  grossed over $7.0 billion. (Adjusted for 2016 inflation: $16.4 billion
+
+* There are also two additional James Bond films, Casino Royale (1967) and Never Say Never Again as well as a single TV production of Casino Royale. All three of these were adapted directly from Ian Fleming novels and had major deviations from the source material.
+
 
 
 | Title                            | Year |
