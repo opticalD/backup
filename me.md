@@ -217,6 +217,8 @@ This is supposed to be [Roger Moore](https://en.wikipedia.org/wiki/Roger_Moore) 
 
 | Platform | Account |
 |----------|---------|
-|Outlook   | [Shubhranshu Pattanaik](mailme:shubhranshu.pattanaik@maersk.com)
+|Outlook   | [Shubhranshu Pattanaik](mailto:shubhranshu.pattanaik@maersk.com)
+|LinkedIn| [Shubhranshu Linkedin](https://www.linkedin.com/in/shubhranshu-pattanaik-12ty/)
+|Whatsapp| +91-7735406476
 
 ![finish](./images/finish-icon.svg)
