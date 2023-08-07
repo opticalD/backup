@@ -168,7 +168,7 @@ and This Image &darr; should be enough to prove my point
 
 
 <details>
-<summary>2. Continental Gt-650 has an overcommitted and very unconfortable riding posture</summary>
+<summary>2. Continental GT-650 has an overcommitted and very unconfortable riding posture</summary>
 
 **How can this be Comfortable!!**
 
@@ -178,10 +178,11 @@ and This Image &darr; should be enough to prove my point
 
 </details>
 
+---
 <details>
 <summary>3. Roger Moore was the worst james bond </summary>
 
-**How can this be Comfortable!!**
+
 
 This is supposed to be [Roger Moore](https://en.wikipedia.org/wiki/Roger_Moore) in The 1985 Bond movie _A View To Kill_ :magic_wand:
 
@@ -191,8 +192,12 @@ This is supposed to be [Roger Moore](https://en.wikipedia.org/wiki/Roger_Moore) 
 
 
 </details>
+
+
+
+
 <details>
-<summary>3. You need to have basic understanding of quantum physics for watching any **Christopher Nolan** Movies  </summary>
+<summary>3. You need to have basic understanding of quantum physics for _Enhanced_ Viewing of any **Christopher Nolan** Movie </summary>
 
 **Anybody who has seen**
 
