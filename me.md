@@ -38,7 +38,8 @@ i am an intern at [ **A.P. Moller Maersk** ](https://www.maersk.com/about) :denm
 
 # What Maersk does: :world_map: 
 
-[![What Maersk Does](./images/download.jpeg)](https://www.youtube.com/watch?v=I8F7GZnERNU)                                                                                      
+[![What Maersk Does](./images/download.jpeg)](https://www.youtube.com/watch?v=I8F7GZnERNU)                                   
+<img src="./images/download.jpeg" width="200" height="100">                                                   
 
 ____________________________________________________________
 
@@ -46,6 +47,7 @@ ____________________________________________________________
 # Where Maersk Stands: :electron:
 
 [![Where Maersk Stands](./images/cross-border-rail-transportation_720x405.webp)](https://www.youtube.com/watch?v=4GixY3P9mfs)  
+<img src="./images/cross-border-rail-transportation_720x405.webp" width="200" height="100">
 
 
 _____________________________________________________________
