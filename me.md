@@ -166,7 +166,7 @@ and This Image &darr; should be enough to prove my point
 
 </details>
 
-
+---
 <details>
 <summary>2. Continental GT-650 has an overcommitted and very unconfortable riding posture</summary>
 
@@ -212,5 +212,11 @@ This is supposed to be [Roger Moore](https://en.wikipedia.org/wiki/Roger_Moore) 
 
 
 </details>
+
+## Reach me
+
+| Platform | Account |
+|----------|---------|
+|Outlook   | [Shubhranshu Pattanaik](mailme:shubhranshu.pattanaik@maersk.com)
 
 ![finish](./images/finish-icon.svg)
