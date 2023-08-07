@@ -34,7 +34,24 @@ I also go by *Shub* (For anyone struggling to pronounce my name)
 
 * I am [21](https://you.regettingold.com/26/12/2001/) years old
 
+* I have a [chipped tooth](https://www.orovalleydentalarts.com/facts-about-cracked-teeth/) :tooth:
+
 * I am an intern at [A.P. Møller – Mærsk](https://www.maersk.com/about) (Danish: [ˈɛˀ ˈpʰe̝ˀ mølɐˈmɛɐ̯sk]), also known simply as Maersk (English: /mɛərsk/ MAIRSK)	:ship: working in the **fbm DevOps and QE team** under **Sudhansu Mohanty**
+
+```
+
+   
+FROM node:18-alpine
+WORKDIR /app
+COPY . .
+RUN yarn install --production
+CMD ["node", "src/index.js"]
+EXPOSE 3000
+cd /path/to/getting-started-app
+docker build -t getting-started .
+docker run -dp 127.0.0.1:3000:3000 getting-started
+
+```
 
 # What Maersk does: :world_map: 
 
@@ -65,12 +82,14 @@ A.P. Møller – Mærsk A/S (Danish: [ˈɛˀ ˈpʰe̝ˀ mølɐˈmɛɐ̯sk]), als
 * Vincent Clerc (CEO)
 * Revenue	US$81.5 billion (2022)
 * Operating income	US$29.7 billion (2022)
-* Net income	US$29.3 billion (2022)
-* Total assets	US$93.7 billion (2022)
-* Total equity	US$65 billion (2022)
+* Net income:	US$29.3 billion (2022)
+* Total assets:	US$93.7 billion (2022)
+* Total equity:	US$65 billion (2022)
 * Number of employees	104,260 (2022)
 * Subsidiaries	900+
-i have a [chipped tooth](https://www.orovalleydentalarts.com/facts-about-cracked-teeth/) :tooth: 
+
+
+ 
 
 I mentally adapt to almost all kinds of situations fairly fast and have strong opinions on various topics, and am up for a good debate always.
 
