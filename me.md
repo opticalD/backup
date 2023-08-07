@@ -34,15 +34,19 @@ and this too :arrow_heading_down:
 
 i am [21](https://you.regettingold.com/26/12/2001/) years old
 
-i am an intern at [ **A.P. Moller Maersk** ](https://www.maersk.com/about) working in the **fbm DevOps and QE team** under sudhansu mohanty
+i am an intern at [ **A.P. Moller Maersk** ](https://www.maersk.com/about) :denmark: working in the **fbm DevOps and QE team** under sudhansu mohanty
 
-# What Maersk does:
+# What Maersk does: :world_map: 
+
+[![What Maersk Does](./images/download.jpeg)](https://www.youtube.com/watch?v=I8F7GZnERNU)                                                                                      
+
+
+# Where Maersk Stands: :electron:
 
 [![Where Maersk Stands](./images/cross-border-rail-transportation_720x405.webp)](https://www.youtube.com/watch?v=9-IEcZOa4rg)  
 
 
 
-[![What Maersk Does](./images/download.jpeg)](https://www.youtube.com/watch?v=I8F7GZnERNU)                                                                                      
 
 i have a [chipped tooth](https://www.orovalleydentalarts.com/facts-about-cracked-teeth/) :tooth: 
 
