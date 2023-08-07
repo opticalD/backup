@@ -215,7 +215,7 @@ This is supposed to be [Roger Moore](https://en.wikipedia.org/wiki/Roger_Moore) 
 
 ## Reach me
 
-| Platform | Account |
+| Where | How |
 |----------|---------|
 |Email  | ]shubhranshu.pattanaik@maersk.com
 |LinkedIn| [Shubhranshu Linkedin](https://www.linkedin.com/in/shubhranshu-pattanaik-12ty/)
