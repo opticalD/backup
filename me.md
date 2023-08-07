@@ -81,7 +81,11 @@ I mentally adapt to almost all kinds of situations fairly fast and have strong o
 
 
 This Scene Right here &rarr; ![Ill be back](./images/ill-be-back-terminator.gif)
-![Ill be back](./images/ill-be-back-terminator.gif)
+
+
+and This Image &darr; should be enough to prove my point
+
+![T800](./images/download%20(1).jpeg)
 
 </details>
 
