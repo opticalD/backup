@@ -34,7 +34,7 @@ and this too :arrow_heading_down:
 
 i am [21](https://you.regettingold.com/26/12/2001/) years old
 
-i am an intern at [ **A.P. Moller Maersk** ](https://www.maersk.com/about) :denmark: working in the **fbm DevOps and QE team** under sudhansu mohanty
+i am an intern at [ **A.P. Moller Maersk** ](https://www.maersk.com/about) :denmark: 	:ship: working in the **fbm DevOps and QE team** under sudhansu mohanty
 
 # What Maersk does: :world_map: 
 
@@ -45,11 +45,25 @@ ____________________________________________________________
 
 # Where Maersk Stands: :electron:
 
-[![Where Maersk Stands](./images/cross-border-rail-transportation_720x405.webp)](https://www.youtube.com/watch?v=9-IEcZOa4rg)  
+[![Where Maersk Stands](./images/cross-border-rail-transportation_720x405.webp)](https://www.youtube.com/watch?v=4GixY3P9mfs)  
 
 
 _____________________________________________________________
 
+# A.P. Moller Maersk 	:ship:
+
+* Founded	16 April 1904; 119 years ago, Svendborg, Denmark
+* Founders	Arnold Peter Møller
+* Peter Mærsk Møller
+* Headquarters:	Copenhagen, Denmark 
+* Vincent Clerc (CEO)
+* Revenue	US$81.5 billion (2022)
+* Operating income	US$29.7 billion (2022)
+* Net income	US$29.3 billion (2022)
+* Total assets	US$93.7 billion (2022)
+* Total equity	US$65 billion (2022)
+* Number of employees	104,260 (2022)
+* Subsidiaries	900+
 i have a [chipped tooth](https://www.orovalleydentalarts.com/facts-about-cracked-teeth/) :tooth: 
 
 I mentally adapt to almost all kinds of situations fairly fast and have strong opinions on various topics, and am up for a good debate always.
