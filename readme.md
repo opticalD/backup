@@ -236,3 +236,9 @@ This is [an example](http://example.com/ "Title") inline link.
 And then define the link:
 
 [Google]: http://google.com/
+
+
+Visit [Daring Fireball][] for more information.
+And then define the link:
+
+[Daring Fireball]: http://daringfireball.net/
