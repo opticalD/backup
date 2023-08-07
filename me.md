@@ -34,7 +34,7 @@ I also go by *Shub* (For anyone struggling to pronounce my name)
 
 * I am [21](https://you.regettingold.com/26/12/2001/) years old
 
-i am an intern at [ **A.P. Moller Maersk** ](https://www.maersk.com/about) :denmark: 	:ship: working in the **fbm DevOps and QE team** under sudhansu mohanty
+* I am an intern at [ **A.P. Moller Maersk** ](https://www.maersk.com/about) 	:ship: working in the **fbm DevOps and QE team** under **Sudhansu Mohanty**
 
 # What Maersk does: :world_map: 
 
