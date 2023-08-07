@@ -27,7 +27,7 @@ and this too :arrow_heading_down:
 
 ![alt text][4]
 
-[1]: ./images/Puri-Odisha-temple-India-background-Jagannatha.webp "O1"
+[1]: <img src="./images/Puri-Odisha-temple-India-background-Jagannatha.webp" width="400" height="200">  "O1"
 [2]: ./images/2000_5e741e821a9ee.webp "o2"
 [3]: ./images/Hirakud-Dam-1.png "03"
 [4]: ./images/36442626_2115263685394037_4487199930405879808_n.webp "04"
@@ -39,13 +39,13 @@ i am an intern at [ **A.P. Moller Maersk** ](https://www.maersk.com/about) :denm
 # What Maersk does: :world_map: 
 
 [![What Maersk Does](./images/download.jpeg)](https://www.youtube.com/watch?v=I8F7GZnERNU)                                   
-<img src="./images/download.jpeg" width="200" height="100">                                                   
+                                                  
 
 ____________________________________________________________
 
 
 # Where Maersk Stands: :electron:
-<img src="./images/cross-border-rail-transportation_720x405.webp" width="200" height="100">
+
 [![Where Maersk Stands](./images/cross-border-rail-transportation_720x405.webp")](https://www.youtube.com/watch?v=4GixY3P9mfs)  
 
 
