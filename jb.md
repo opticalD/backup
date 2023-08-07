@@ -15,7 +15,10 @@ here's my breakdown of the james bond movie franchise
 
 * There are also two additional James Bond films, Casino Royale (1967) and Never Say Never Again as well as a single TV production of Casino Royale. All three of these were adapted directly from Ian Fleming novels and had major deviations from the source material.
 
-## sean
+#Actors who played james bond 
+
+1.Sean Connery
+![alt text](https://images.app.goo.gl/9qtdqCpAY2SNxV16A "Sean Connery")
 
 | Title                            | Year |
 |----------------------------------|------|
