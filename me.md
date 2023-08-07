@@ -8,31 +8,26 @@ Hello !
 
 I also go by *Shub* (For anyone struggling to pronounce my name)
 
-I Come from Bhubaneswar,Odisha
+* I Come from **Odisha**
 
-where we have this :arrow_heading_down:
+    Where we have this :arrow_heading_down:
 
-![alt text][1]
-
-and this :arrow_heading_down:
-
-<img src="./images/Puri-Odisha-temple-India-background-Jagannatha.webp" width="400" height="200">  "O1"
+<img src="./images/2000_5e741e821a9ee.webp" width="400" height="200">  
 
 and this :arrow_heading_down:
 
+<img src="./images/Puri-Odisha-temple-India-background-Jagannatha.webp" width="400" height="200">  
 
-![alt text][3]
+and this :arrow_heading_down:
+
+<img src="./images/magnet-valley-view-from.jpg" width="400" height="200"> 
 
 and this too :arrow_heading_down:
 
-![alt text][4]
+<img src="./images/36442626_2115263685394037_4487199930405879808_n.webp" width="400" height="200">  "O1"
 
 
-[2]: ./images/2000_5e741e821a9ee.webp "o2"
-[3]: ./images/Hirakud-Dam-1.png "03"
-[4]: ./images/36442626_2115263685394037_4487199930405879808_n.webp "04"
-
-i am [21](https://you.regettingold.com/26/12/2001/) years old
+* I am [21](https://you.regettingold.com/26/12/2001/) years old
 
 i am an intern at [ **A.P. Moller Maersk** ](https://www.maersk.com/about) :denmark: 	:ship: working in the **fbm DevOps and QE team** under sudhansu mohanty
 
