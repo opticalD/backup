@@ -242,3 +242,12 @@ Visit [Daring Fireball][] for more information.
 And then define the link:
 
 [Daring Fireball]: http://daringfireball.net/
+
+
+
+
+
+<p>Please don't use any <code>&lt;blink&gt;</code> tags.</p>
+You can write this:
+
+`&#8212;` is the decimal-encoded equivalent of `&mdash;`.
