@@ -191,10 +191,19 @@ This is supposed to be [Roger Moore](https://en.wikipedia.org/wiki/Roger_Moore) 
 
 
 </details>
+<details>
+<summary>3. You need to have basic understanding of quantum physics for watching any **Christopher Nolan** Movies  </summary>
 
-Roger Moore was the worst james bond 
+**Anybody who has seen**
 
-You need to have basic understanding of quantum physics for watching any christopher nolan movies
+1. Interstellar
+2. Tenet
+3. Oppenheimer 
 
-Never buy anything on sale.
+**can attest to this**
 
+
+
+</details>
+
+![finish](./images/finish-icon.svg)
